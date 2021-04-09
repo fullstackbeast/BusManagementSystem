@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.Api\\TransportSystem.Api.csproj": {}
+  },
+  "projects": {
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.Api\\TransportSystem.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.Api\\TransportSystem.Api.csproj",
+        "projectName": "TransportSystem.Api",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.Api\\TransportSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj"
+              },
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj"
+              },
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\TransportSystem.IOC.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\TransportSystem.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
+        "projectName": "TransportSystem.Core",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj",
+        "projectName": "TransportSystem.Data",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj",
+        "projectName": "TransportSystem.Domain",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj"
+              },
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\TransportSystem.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\TransportSystem.IOC.csproj",
+        "projectName": "TransportSystem.IOC",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\TransportSystem.IOC.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj"
+              },
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj"
+              },
+              "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj": {
+                "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.domain\\TransportSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

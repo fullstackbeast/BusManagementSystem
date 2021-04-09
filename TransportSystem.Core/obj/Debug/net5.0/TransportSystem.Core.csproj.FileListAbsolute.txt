@@ -1,0 +1,5 @@
+C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.csprojAssemblyReference.cache
+C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfoInputs.cache
+C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfo.cs
+C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.csproj.CoreCompileInputs.cache
