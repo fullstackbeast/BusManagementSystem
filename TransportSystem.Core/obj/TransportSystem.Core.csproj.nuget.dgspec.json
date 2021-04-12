@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj": {}
+    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {}
   },
   "projects": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj": {
+    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj",
+        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
         "projectName": "TransportSystem.Core",
-        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj",
+        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\obj\\",
+        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.5, )"
+              "version": "[3.1.12, )"
             }
           },
           "imports": [

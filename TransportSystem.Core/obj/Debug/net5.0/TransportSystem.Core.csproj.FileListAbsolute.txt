@@ -1,5 +1,12 @@
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\bin\Debug\net5.0\TransportSystem.Core.deps.json
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\bin\Debug\net5.0\TransportSystem.Core.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\bin\Debug\net5.0\ref\TransportSystem.Core.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\bin\Debug\net5.0\TransportSystem.Core.pdb
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfoInputs.cache
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfo.cs
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.csproj.CoreCompileInputs.cache
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\ref\TransportSystem.Core.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.pdb
 C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.csprojAssemblyReference.cache
-C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfoInputs.cache
-C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.AssemblyInfo.cs
-C:\Codelearnershub\TransportSystem\TransportSystem.Core\obj\Debug\net5.0\TransportSystem.Core.csproj.CoreCompileInputs.cache

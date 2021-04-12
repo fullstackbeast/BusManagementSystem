@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj": {}
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj": {}
   },
   "projects": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj": {
+    "c:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj",
+        "projectUniqueName": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj",
         "projectName": "TransportSystem.UI",
-        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj",
+        "projectPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\TransportSystem.UI.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\obj\\",
+        "outputPath": "c:\\Codelearnershub\\TransportSystem\\TransportSystem.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

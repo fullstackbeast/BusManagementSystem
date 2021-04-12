@@ -1,0 +1,17 @@
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Domain.deps.json
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Domain.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\ref\TransportSystem.Domain.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Domain.pdb
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Core.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Data.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Data.pdb
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\bin\Debug\net5.0\TransportSystem.Core.pdb
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.csprojAssemblyReference.cache
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.AssemblyInfoInputs.cache
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.AssemblyInfo.cs
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.csproj.CoreCompileInputs.cache
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.csproj.CopyComplete
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\ref\TransportSystem.Domain.dll
+c:\Codelearnershub\TransportSystem\TransportSystem.Domain\obj\Debug\net5.0\TransportSystem.Domain.pdb

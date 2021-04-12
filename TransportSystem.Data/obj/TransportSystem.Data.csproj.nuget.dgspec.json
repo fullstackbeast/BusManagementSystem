@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Data\\TransportSystem.Data.csproj": {}
+    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj": {}
   },
   "projects": {
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj": {
+    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj",
+        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
         "projectName": "TransportSystem.Core",
-        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj",
+        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\obj\\",
+        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -40,7 +40,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.5, )"
+              "version": "[3.1.12, )"
             }
           },
           "imports": [
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Data\\TransportSystem.Data.csproj": {
+    "C:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Data\\TransportSystem.Data.csproj",
+        "projectUniqueName": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj",
         "projectName": "TransportSystem.Data",
-        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Data\\TransportSystem.Data.csproj",
+        "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\TransportSystem.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Data\\obj\\",
+        "outputPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj": {
-                "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.Core\\TransportSystem.Core.csproj"
+              "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj": {
+                "projectPath": "C:\\Codelearnershub\\TransportSystem\\TransportSystem.core\\TransportSystem.Core.csproj"
               }
             }
           }
@@ -100,6 +100,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[3.2.4, )"
